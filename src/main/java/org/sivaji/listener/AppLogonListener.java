@@ -38,6 +38,7 @@ public class AppLogonListener implements ApplicationListener<ContextRefreshedEve
             try {
                 threadedSocketInitiator.start();
                 log.info("--------- ThreadedSocketInitiator started ---------");
+                log.info("--------- 2:ThreadedSocketInitiator started ---------");
                 initiatorStarted = true;
             } catch (ConfigError configError) {
                 configError.printStackTrace();
