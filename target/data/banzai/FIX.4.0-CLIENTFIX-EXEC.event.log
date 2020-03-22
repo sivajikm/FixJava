@@ -1,0 +1,54 @@
+20200321-16:56:33: Session FIX.4.0:CLIENTFIX->EXEC schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200321-16:56:33: Created session: FIX.4.0:CLIENTFIX->EXEC
+20200321-16:56:33: Configured socket addresses for session: [localhost/127.0.0.1:9876]
+20200321-16:56:37: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-16:56:47: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-16:56:55: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-16:57:05: Pending connection not established after 2004 ms.
+20200321-16:57:11: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-16:57:19: Pending connection not established after 2002 ms.
+20200321-16:57:27: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-16:57:35: Pending connection not established after 2002 ms.
+20200321-16:57:39: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-16:57:51: Pending connection not established after 2002 ms.
+20200321-16:57:59: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-16:58:07: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-16:58:17: Pending connection not established after 2003 ms.
+20200321-16:58:23: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-16:58:33: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-16:58:43: Pending connection not established after 2002 ms.
+20200321-16:58:49: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-16:58:55: Pending connection not established after 2001 ms.
+20200321-16:59:03: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-16:59:08: Pending connection not established after 2002 ms.
+20200321-16:59:18: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-16:59:26: Pending connection not established after 2002 ms.
+20200321-16:59:35: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-16:59:43: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-16:59:51: Pending connection not established after 2002 ms.
+20200321-16:59:59: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-17:00:03: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-17:00:13: Pending connection not established after 2002 ms.
+20200321-17:00:19: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-17:00:27: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-17:00:37: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-17:00:45: Pending connection not established after 2002 ms.
+20200321-17:00:53: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-17:01:01: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-17:01:07: Pending connection not established after 2003 ms.
+20200321-17:01:17: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-17:01:25: Pending connection not established after 2002 ms.
+20200321-17:01:33: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-17:01:41: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-17:01:49: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-17:01:57: Pending connection not established after 2002 ms.
+20200321-17:02:05: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-17:02:13: Pending connection not established after 2002 ms.
+20200321-17:02:21: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-17:02:29: Pending connection not established after 2020 ms.
+20200321-17:02:37: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-17:02:41: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-17:02:51: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-17:03:05: Pending connection not established after 2001 ms.
+20200321-17:03:07: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200321-17:03:19: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
